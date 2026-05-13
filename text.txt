@@ -1,2 +1,5 @@
+
+jakis commit
+
 nowy branch
 główny branch
